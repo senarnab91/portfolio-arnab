@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+        .intro{
+            background-color: #232020;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            color: #4528ff;
+           
+            height: 300px;
+        }
+        .intro .img{
+f               
+            
+            height: 98px;
+        width: 108px;
+            
+        }
+        .intro .introlist{
+            text-align: center;
+        }
+        .educational-background{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+            color: #4528ff;
+            margin-top: 10px;
+            text-align: center;
+            display: flex;
+           background-color: grey;
+           height:auto;
+           flex-wrap: wrap;
+           justify-content: center;
+           
+          
+        }
+        .educational-background .course {
+            color: #a3351d;
+            width: 133px;
+            height: 22px;
+            margin: 20px;
+             /* padding-top: 6; */
+            text-align: center;
+            background-color: #d6d7e2;
+            border-radius: 5%;
+    }
+    .projects{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+            color: #4528ff;
+            margin-top: 10px;
+            text-align: center;
+            display: flex;
+            background-color: grey;
+            height:auto;
+            flex-wrap: wrap;
+            justify-content: center;
+          
+        }
+        .projects .projectcnt {
+            color: #a3351d;
+            text-align: center;
+            width: 154px;
+            height: 25px;
+            border-radius: 8%;
+            margin: 20px;
+            background-color: #d6d7e2;
+    }
+    .skills{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+            color: #4528ff;
+            display: flex;
+            margin-top: 10px;
+           background-color: grey;
+           height:auto;
+           flex-wrap: wrap;
+           justify-content: center;
+          
+        }
+        .skills .skillset {
+            color: #a3351d;
+                text-align: center;
+            width: 219px;
+            height: 29px;
+            /* text-align: center; */
+            margin: 20px;
+            padding-top: 4px;
+            border-radius: 6%;
+            background-color: #d6d7e2;
+            
+    }
+    
+    .eduback{
+        font-size:20px;
+       
+        text-align: center;
+        width: 100%;
+        height: 50px;
+        background-color: #2b2827f2;
+        padding-top: 14px;
+        text-align: center;
+    }
+    .prowork{
+        
+        font-size:20px;
+        width: 100%;
+        height: 50px;
+        background-color: #2b2827f2;
+        padding-top: 14px;
+        text-align: center;
+    }
+    .proficiency{
+        font-size:20px;
+        width: 100%;
+        height: 50px;
+        background-color: #2b2827f2;
+        padding-top: 14px;
+        text-align: center;
+    }
+    .footer{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #4528ff;
+        text-align: center;
+    }
